@@ -1,1 +1,2 @@
-# Note-of-algorithm-and-data-structure
+# Note-of-algorithm-and-data-structur
+To be or not? Destiny is at your feet
