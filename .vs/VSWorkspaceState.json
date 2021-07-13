@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\leetcode\\LeetcodeC++",
+    "\\leetcode\\LeetcodeC++\\LeetcodeC++\\Debug\\LeetcodeC++.tlog",
+    "\\stl",
+    "\\stl\\SGI-STL",
+    "\\stl\\SGI-STL\\SGI-STL Test",
+    "\\stl\\SGI-STL\\SGI-STL Test\\adapter_test",
+    "\\stl\\SGI-STL\\SGI-STL Test\\adapter_test\\adapter_test1"
   ],
+  "SelectedNode": "\\stl\\SGI-STL\\SGI-STL Test\\adapter_test\\adapter_test1\\adapter_test1.cpp",
   "PreviewInSolutionExplorer": false
 }
